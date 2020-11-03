@@ -1,0 +1,104 @@
+{
+"people":
+[{
+  "id": 1,
+  "name": "Launce Slinger",
+  "email": "lslinger0@intel.com",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Dyna Lundberg",
+  "email": "dlundberg1@icio.us",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Staford Harbard",
+  "email": "sharbard2@icio.us",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Sauncho Simnell",
+  "email": "ssimnell3@plala.or.jp",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Alfred McGlew",
+  "email": "amcglew4@etsy.com",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "name": "Traver Austwick",
+  "email": "taustwick5@parallels.com",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "name": "Dori Fain",
+  "email": "dfain6@shareasale.com",
+  "gender": "Female"
+}, {
+  "id": 8,
+  "name": "Alon Bansal",
+  "email": "abansal7@statcounter.com",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "name": "Olivette Brodeau",
+  "email": "obrodeau8@surveymonkey.com",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Felicity Kanter",
+  "email": "fkanter9@patch.com",
+  "gender": "Female"
+}, {
+  "id": 11,
+  "name": "Roderick Anthon",
+  "email": "ranthona@hatena.ne.jp",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "name": "Vinny Maevela",
+  "email": "vmaevelab@un.org",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "name": "Alis Domican",
+  "email": "adomicanc@boston.com",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Augie Antczak",
+  "email": "aantczakd@europa.eu",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Gabrielle Mathe",
+  "email": "gmathee@independent.co.uk",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Tobe Jedrzejkiewicz",
+  "email": "tjedrzejkiewiczf@devhub.com",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "name": "Dacey Cheson",
+  "email": "dchesong@ca.gov",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "name": "Elonore Challace",
+  "email": "echallaceh@army.mil",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Retha Cheltnam",
+  "email": "rcheltnami@addtoany.com",
+  "gender": "Female"
+}, {
+  "id": 20,
+  "name": "Hersh Nisco",
+  "email": "hniscoj@w3.org",
+  "gender": "Male"
+}]
+}
